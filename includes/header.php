@@ -10,7 +10,7 @@
     <div class="w-full bg-slate-800 p-6 shadow-lg">
         <h1 class="text-4xl text-center text-red-400 font-bold">GG Fitness</h1>
         <nav class="pt-6 flex space-x-4 justify-center">
-            <a href="dashboard.php" class="text-white text-lg font-medium border border-red-400 rounded-lg px-4 py-2 transition duration-300 hover:bg-red-400 hover:text-slate-800">Dashboard</a>
+            <a href="home.php" class="text-white text-lg font-medium border border-red-400 rounded-lg px-4 py-2 transition duration-300 hover:bg-red-400 hover:text-slate-800">Início</a>
             <a href="alunos.php" class="text-white text-lg font-medium border border-red-400 rounded-lg px-4 py-2 transition duration-300 hover:bg-red-400 hover:text-slate-800">Alunos</a>
             <a href="treinos.php" class="text-white text-lg font-medium border border-red-400 rounded-lg px-4 py-2 transition duration-300 hover:bg-red-400 hover:text-slate-800">Treinos</a>
             <a href="atribuir_treino.php" class="text-white text-lg font-medium border border-red-400 rounded-lg px-4 py-2 transition duration-300 hover:bg-red-400 hover:text-slate-800">Atribuir Treino</a>
